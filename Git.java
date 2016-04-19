@@ -6,7 +6,7 @@ public class Git {
 
         for (int i = 0; i < 100; i++) {
 
-            System.out.println("ksjdisjd")
+            System.out.println("0123456789")
         }
 
     }
